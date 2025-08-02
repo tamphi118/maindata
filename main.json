@@ -2,7 +2,7 @@
   "pass":"aBiTrue",
   "numtabs": 6,
   "numpostlead": [1,2],
-  "numpostauto": [1,5],
+  "numpostauto": [5,5],
   "mousescroll": [5,10],
   "timeinads": [120,180],
   "proxy":"https://raw.githubusercontent.com/chaudaiduong1992/aBi/refs/heads/main/ip",
